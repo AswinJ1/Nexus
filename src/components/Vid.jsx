@@ -20,7 +20,7 @@ const Vid = ({ playState, setPlaystate }) => {
         className="w-[98%] max-w-[900px] h-auto border-[4px] border-solid"
         controls
       >
-        <source src="src/assets/Nexus.mp4" type="video/mp4" />
+        <source src="/assets/Nexus.mp4" type="video/mp4" />
       </video>
     </div>
   );

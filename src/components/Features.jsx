@@ -16,7 +16,7 @@ const Features = () => {
     <div className="rounded border shadow p-4">
       <img
         className="w-full h-auto object-contain"
-        src="src/assets/prok.webp"
+        src="/assets/prok.webp"
         alt="Feature 1"
       />
       <h3 className="font-bold text-indigo-700 mt-2">Customizable Workspaces</h3>
@@ -29,7 +29,7 @@ const Features = () => {
     <div className="rounded border shadow p-4">
       <img
         className="w-full h-auto object-contain"
-        src="src/assets/notion.png"
+        src="/assets/notion.png"
         alt="Feature 2"
       />
       <h3 className="font-bold text-indigo-700 mt-2">Smart Task Prioritization & Productivity Insights</h3>
@@ -43,7 +43,7 @@ const Features = () => {
   <div className="flex items-center justify-center">
     <img
       className="w-full h-auto object-contain"
-      src="src/assets/time.jpg"
+      src="/assets/time.jpg"
       alt="Productivity"
     />
   </div>
@@ -54,7 +54,7 @@ const Features = () => {
       <Player
         autoplay
         loop
-        src="src/assets/market-research.json"
+        src="/assets/market-research.json"
         className="w-full h-full"
       />
     </div>

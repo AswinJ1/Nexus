@@ -10,7 +10,7 @@ const Testimonials = () => {
     <div className="relative">
       <img
         className="w-16 h-16 rounded-full object-cover"
-        src="src/assets/avatar-3.jpg"
+        src="/assets/avatar-3.jpg"
         alt="Profile picture of Kristin Watson"
       />
       <div className="absolute top-0 right-0 bg-blue-500 text-white w-6 h-6 flex items-center justify-center rounded-full">
@@ -42,7 +42,7 @@ const Testimonials = () => {
     <div className="relative">
       <img
         className="w-16 h-16 rounded-full object-cover"
-        src="src/assets/avatar-2.jpg"
+        src="/assets/avatar-2.jpg"
         alt="Profile picture of Kristin Watson"
       />
       <div className="absolute top-0 right-0 bg-blue-500 text-white w-6 h-6 flex items-center justify-center rounded-full">
@@ -74,7 +74,7 @@ const Testimonials = () => {
     <div className="relative">
       <img
         className="w-16 h-16 rounded-full object-cover"
-        src="src/assets/avatar-1.jpg"
+        src="/assets/avatar-1.jpg"
         alt="Profile picture of Kristin Watson"
       />
       <div className="absolute top-0 right-0 bg-blue-500 text-white w-6 h-6 flex items-center justify-center rounded-full">

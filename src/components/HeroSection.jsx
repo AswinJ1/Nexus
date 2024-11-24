@@ -10,7 +10,7 @@ const HeroSection = () => {
       <Player
         autoplay
         loop
-        src="src/assets/employee-getting-customer-requirements.json"
+        src="/assets/employee-getting-customer-requirements.json"
         className="w-[250px] h-[250px] sm:w-[300px] sm:h-[300px] lg:w-[550px] lg:h-[550px]"
       />
     </div>

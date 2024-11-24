@@ -10,7 +10,7 @@ const Pricing = () => {
     <div className="rounded-lg border border-gray-200 bg-white shadow-md hover:shadow-lg p-6">
       <div className="flex items-start">
         <img
-          src="src/assets/personal.webp"
+          src="/assets/personal.webp"
           alt="Free Plan Icon"
           className="w-8 h-8 mr-4"
         />
@@ -40,7 +40,7 @@ const Pricing = () => {
     <div className="rounded-lg border border-gray-200 bg-white shadow-md hover:shadow-lg p-6">
       <div className="flex items-start">
         <img
-          src="src/assets/pro-1.webp"
+          src="/assets/pro-1.webp"
           alt="Free Plan Icon"
           className="w-8 h-8 mr-4"
         />
@@ -72,7 +72,7 @@ const Pricing = () => {
     <div className="rounded-lg border border-gray-200 bg-white shadow-md hover:shadow-lg p-6">
       <div className="flex items-start">
         <img
-          src="src/assets/team.webp"
+          src="/assets/team.webp"
           alt="Free Plan Icon"
           className="w-8 h-8 mr-4"
         />

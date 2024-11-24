@@ -8,12 +8,12 @@ const About = ({setPlaystate}) => {
 
   <div class="w-full lg:w-1/2 relative">
 
-    <img src="src/assets/pro.webp" alt="Nexus Productivity App" class="w-full h-auto" />
+    <img src="/assets/pro.webp" alt="Nexus Productivity App" class="w-full h-auto" />
     
   
     <img
       class="w-[60px] absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 cursor-pointer"
-      src="src/assets/playnow.png"
+      src="/assets/playnow.png"
       alt="Play Button"
       onClick={()=>{setPlaystate(true)}}
     />
