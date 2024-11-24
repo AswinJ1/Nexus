@@ -6,7 +6,7 @@ const Features = () => {
   
     <div className="mt-[19px]">
   <div className="text-center">
-    <h1 className="block mb-10 mt-10 text-xl font-normal text-[46px] text-indigo-700">Features</h1>
+    <h1 className="block mb-10 mt-10 text-xl font-normal text-[56px] text-indigo-700">Features</h1>
   </div>
 
 
